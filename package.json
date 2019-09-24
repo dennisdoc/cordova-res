@@ -48,7 +48,8 @@
     "debug": "^4.1.1",
     "elementtree": "^0.1.7",
     "sharp": "^0.22.1",
-    "tslib": "^1.9.3"
+    "tslib": "^1.9.3",
+    "minipass": "2.7.0",
   },
   "devDependencies": {
     "@types/debug": "4.1.4",
